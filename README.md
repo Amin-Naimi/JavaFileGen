@@ -18,6 +18,6 @@
   ```bash
   jc MyClass -c
 
-  - **Create a Java interface**:  
+- **Create a Java interface**:  
   ```bash
   jc MyClass -i
