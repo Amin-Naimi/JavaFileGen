@@ -21,3 +21,5 @@
 - **Create a Java interface**:  
   ```bash
   jc MyClass -i
+  
+![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey)
